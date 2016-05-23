@@ -26,15 +26,27 @@ list-style:none;
 border-right:#CCCCCC 1px solid;
 padding-left:10px;
 padding-right:10px;
- }
+}
 
- .main-nav li:last-child {
-   border:none;
- }
- .white-text {
+.main-nav li:last-child{
+   border: none;
+}
+.white-text {
    color:#FFFFFF;
 
- }
+}
+.resume-list {list style:square; color:#FFFFFF;
+}
+
+.resume-list {margin-top:20px;
+}
+.bold {
+  font-weight: bold;
+}
+.gray-text {
+  color:#CCCCCC;
+
+}
 .main-nav  a {
   color:#00595d;
 
